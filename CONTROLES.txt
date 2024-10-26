@@ -1,0 +1,3 @@
+wasd = movimento
+m1= tiro
+g= dropar arma
